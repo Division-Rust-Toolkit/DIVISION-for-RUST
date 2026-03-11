@@ -5,7 +5,7 @@
 ## Banner
 
 <div align="center">
-  <img src="https://cheatseller.com/uploads/202308/phpyxpqof_split_division_rust_screen_2.jpg"
+  <img src="https://cheatseller.com/uploads/202511/php1vlh0t_split_division_rust_-2-.jpg"
        alt="DIVISION for RUST Interface"
        width="1000"
        style="border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,0.4); border:1px solid #333;" />
